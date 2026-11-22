@@ -1,0 +1,25 @@
+<div class="flex flex-wrap justify-between">
+  {{ if and .GitInfo .Site.Params.BookRepo }}
+    <div>
+      <a class="flex align-center" href="{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}" title='{{ i18n "Last modified by" }} {{ .GitInfo.AuthorName }} | {{ .GitInfo.AuthorDate.Format "Jan 2, 2006" }}' target="_blank" rel="noopener">
+        <img src="{{ "svg/calendar.svg" | relURL }}" class="book-icon" alt="" />
+        <span>{{ .GitInfo.AuthorDate.Format "Jan 2, 2006" }}</span>
+      </a>
+    </div>
+  {{ end }}
+</div>
+
+<div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--gray-200); font-size: 0.85em; opacity: 0.85; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem;">
+  <div>
+    © 2026 <strong>Vivien Yor</strong> • All Rights Reserved.
+  </div>
+  <div>
+    ORCID: <a href="https://orcid.org" target="_blank" rel="noopener">0009-0009-7030-8151</a> • 
+    <a href="https://github.io" target="_blank" rel="noopener">VSCI Research</a>
+  </div>
+</div>
+
+{{ $script := resources.Get "clipboard.js" | resources.Minify }}
+{{ with $script.Content }}
+  <script>{{ . | safeJS }}</script>
+{{ end }}
