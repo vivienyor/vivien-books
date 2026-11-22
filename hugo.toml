@@ -4,19 +4,19 @@ defaultContentLanguage = "ru"
 
 [languages]
   [languages.ru]
-    languageName = "Русский"
+    label = "Русский"
     title = "Вивьен Йор — Интеллектуальная проза"
     weight = 1
   [languages.en]
-    languageName = "English"
+    label = "English"
     title = "Vivien Yor — Intellectual Prose"
     weight = 2
   [languages.fr]
-    languageName = "Français"
+    label = "Français"
     title = "Vivien Yor — Prose Intellectuelle"
     weight = 3
   [languages.es]
-    languageName = "Español"
+    label = "Español"
     title = "Vivien Yor — Prosa Intelectual"
     weight = 4
 
@@ -24,3 +24,4 @@ defaultContentLanguage = "ru"
   BookTheme = "auto"
   BookToC = true
   BookSection = "docs"
+

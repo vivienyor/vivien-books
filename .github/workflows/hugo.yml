@@ -35,7 +35,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: |
-          hugo --gc --minify --baseURL "https://github.io"
+          hugo --gc --minify --baseURL "https://vivienyor.github.io/vivien-books"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
