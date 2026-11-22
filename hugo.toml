@@ -1,7 +1,24 @@
-baseURL = "https://vivienyor.github.io/vivien-books"
-languageCode = "ru-ru"
-title = "Вивьен Йор — Интеллектуальная проза"
+baseURL = "https://github.io"
 theme = "hugo-book"
+defaultContentLanguage = "ru"
+
+[languages]
+  [languages.ru]
+    languageName = "Русский"
+    title = "Вивьен Йор — Интеллектуальная проза"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    title = "Vivien Yor — Intellectual Prose"
+    weight = 2
+  [languages.fr]
+    languageName = "Français"
+    title = "Vivien Yor — Prose Intellectuelle"
+    weight = 3
+  [languages.es]
+    languageName = "Español"
+    title = "Vivien Yor — Prosa Intelectual"
+    weight = 4
 
 [params]
   BookTheme = "auto"
