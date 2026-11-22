@@ -1,0 +1,9 @@
+baseURL = "https://vivienyor.github.io/vivien-books"
+languageCode = "ru-ru"
+title = "Вивьен Йор — Интеллектуальная проза"
+theme = "hugo-book"
+
+[params]
+  BookTheme = "auto"
+  BookToC = true
+  BookSection = "docs"

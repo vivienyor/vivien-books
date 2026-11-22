@@ -1,0 +1,21 @@
+{
+  "name": "Вивьен Йор — Интеллектуальная проза",
+  "short_name": "Вивьен Йор — Интеллектуальная проза",
+  "start_url": "/vivien-books/",
+  "scope": "/vivien-books/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "type": "image/png",
+      "src": "/vivien-books/favicon.png",
+      "sizes": "96x96"
+    },
+    {
+      "type": "image/svg+xml",
+      "src": "/vivien-books/favicon.svg",
+      "sizes": "any"
+    }
+  ]
+}
