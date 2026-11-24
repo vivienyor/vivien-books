@@ -24,4 +24,9 @@ defaultContentLanguage = "ru"
   BookTheme = "auto"
   BookToC = true
   BookSection = "docs"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
