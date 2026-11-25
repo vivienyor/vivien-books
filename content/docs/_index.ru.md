@@ -25,9 +25,3 @@ type: docs
 
 **[Читать роман →](/vivien-books/docs/novels/svoim-cheredom/)**
 {{< /columns >}}
-
----
-
-## Повести
-
-{{< novellas-list >}}
