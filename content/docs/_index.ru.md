@@ -1,12 +1,25 @@
+---
+title: "Вивьен Йор — Интеллектуальная проза"
+type: docs
+---
+
+# Библиотека Вивьен Йор
+
+Литературный архив интеллектуальной прозы, философских повестей и крупной формы.
+
+---
+
+## Новинки и избранное
+
 <div style="border: 1px solid var(--gray-200); border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0; background: var(--body-background); display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start;">
   
-  <div style="flex: 0 0 200px; max-width: 100%;">
+  <div style="flex: 0 0 190px; max-width: 100%;">
     <a href="./novels/svoim-cheredom/">
       <img src="/vivien-books/images/svoim-cheredom.png" alt="Обложка: Своим чередом" style="width: 100%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;" />
     </a>
   </div>
 
-  <div style="flex: 1 1 300px;">
+  <div style="flex: 1 1 280px;">
     <div style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.75; margin-bottom: 0.4rem;">
       Роман-эссе • 2026 • Сто глав о внутреннем суверенитете
     </div>
