@@ -1,9 +1,10 @@
---
+---
 title: "Своим чередом"
 weight: 1
 ---
 
 # Своим чередом
+
 
 <img src="/vivien-books/images/svoim-cheredom.png" alt="Обложка: Своим чередом" style="max-width: 260px; float: right; margin: 0 0 1.5rem 1.5rem; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 
