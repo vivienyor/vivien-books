@@ -1,0 +1,10 @@
+<ul style="list-style: none; padding-left: 0;">
+{{ range (where .Site.RegularPages "Section" "docs") }}
+  {{ if in .File.Dir "novellas" }}
+  <li style="margin-bottom: 1.2rem; padding-bottom: 1rem; border-bottom: 1px solid var(--gray-200);">
+    <a href="{{ .RelPermalink }}" style="font-size: 1.15em; font-weight: bold;">{{ .Title }}</a>
+    {{ with .Params.description }}<p style="margin: 0.3rem 0 0 0; opacity: 0.85;">{{ . }}</p>{{ end }}
+  </li>
+  {{ end }}
+{{ end }}
+</ul>
