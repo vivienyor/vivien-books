@@ -18,7 +18,6 @@ type: docs
       <img src="/vivien-books/images/svoim-cheredom.png" alt="Обложка: Своим чередом" style="width: 100%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;" />
     </a>
   </div>
-
   <div style="flex: 1 1 280px;">
     <div style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.75; margin-bottom: 0.4rem;">
       Роман-эссе • 2026 • Сто глав о внутреннем суверенитете
@@ -41,5 +40,4 @@ type: docs
       </a>
     </div>
   </div>
-
 </div>
