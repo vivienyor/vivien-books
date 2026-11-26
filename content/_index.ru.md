@@ -30,3 +30,10 @@ type: docs
   </tr>
 </table>
 {{< /columns >}}
+
+---
+
+## Повести
+
+{{< novellas-list >}}
+
