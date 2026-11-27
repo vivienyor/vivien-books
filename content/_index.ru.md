@@ -37,3 +37,4 @@ type: docs
 
 {{< novellas-list >}}
 
+/vivien-books/docs/novellas/taktilnost-tishiny/

@@ -4,6 +4,7 @@ weight: 1
 description: "Philosophical novella • 2026 • The Architect of Glass Rome is a psychological novella about power, vision, and the fragile boundary between uniting people and controlling them. Inspired by the legacies of Augustus, Louis XIV, and Napoleon, London tech founder Julian Vale sets out to build a benevolent digital empire—only to watch his quest for order harden into hegemony. Seen through the eyes of his longtime friend, Oxford historian Eleanor Crawford, the story asks the defining question of the digital age: can the architects of our future connect humanity without erasing what makes each of us unique?"
 ---
 
+
 # The Architect of Glass Rome
 
 ## Chapter 1. A Blueprint of Glass and Code
