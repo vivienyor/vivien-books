@@ -57,7 +57,7 @@ Eleanor froze on the threshold. For the first time, she heard in his voice the e
 
 ---
 
-Chapter 2. The Glass Versailles
+## Chapter 2. The Glass Versailles
 
 Winter in London turned out damp and snowless, yet on the forty-seventh floor of the Agora Tower, a sterile, sunlit spring reigned eternal.
 
@@ -97,7 +97,7 @@ Eleanor remained standing in the middle of the glass hall. She realized that the
 
 ---
 
-Chapter 3. The Liberator’s Code
+## Chapter 3. The Liberator’s Code
 
 Spring in London smelled of damp lilac and ozone after frequent squalls, yet inside the Agora Tower, seasons no longer changed. By April, the Standard Code was operating at full capacity, and immediately afterward Julian announced the launch of "Continental Integration"—a sweeping acquisition and restructuring of dozens of independent European platforms.
 
@@ -139,7 +139,7 @@ Eleanor stood by her desk for a moment, looking down at her resignation letter, 
 
 ---
 
-Chapter 4. Rain over Waterloo
+## Chapter 4. Rain over Waterloo
 
 His "eastern campaign" began in September and collapsed in less than three months.
 
