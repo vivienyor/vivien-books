@@ -36,5 +36,3 @@ type: docs
 ## Повести
 
 {{< novellas-list >}}
-
-/vivien-books/docs/novellas/taktilnost-tishiny/
